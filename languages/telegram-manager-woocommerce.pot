@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Telegram Manager WooCommerce\\n"
+"Report-Msgid-Bugs-To: \\n"
+"POT-Creation-Date: 2026-04-25 19:38+0000\\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\\n"
+"Last-Translator: \\n"
+"Language-Team: \\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"X-Domain: telegram-manager-woocommerce\\n"
+
+#: templates/admin/partials/settings-admin-bot-tab.php:38
+msgid "%d/3 steps completed"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:63
+msgid "1. Get instant order alerts in Telegram"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:72
+msgid "2. Build your Telegram audience"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:81
+msgid "3. Turn a product into a Telegram campaign"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:90
+msgid "4. Make sure every message is delivered"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:175
+msgid "A longer description shown to users in Telegram."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:55
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:34
+msgid "Active"
+msgstr ""
+
+#: src/Admin/ProductPushMetaBox.php:57
+msgid "Active audience: %d"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:27
+msgid "Active: %d"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:45
+msgid "Add bot token"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:262
+msgid "Add command"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:232
+msgid "Add commands shown in your bot menu. Enter command names without \"/\"."
+msgstr ""
+
+#: templates/admin/bot-settings.php:56
+msgid "Additional chat targets"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:47
+msgid "ago"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:295
+msgid "Apply in Telegram"
+msgstr ""
+
+#: templates/admin/bot-settings.php:51
+msgid "Auto detect"
+msgstr ""
+
+#: templates/frontend/bind-shortcode.php:4
+msgid "Bind Telegram"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:47
+msgid "Bot"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:228
+msgid "Bot menu commands"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:52
+msgid "Bot status"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:118
+#: templates/admin/partials/settings-marketing-bot-tab.php:82
+#: templates/admin/bot-settings.php:32
+msgid "Bot username"
+msgstr ""
+
+#: templates/admin/marketing-page.php:13
+msgid "Build one promotional message for selected products and send it to your Telegram audience."
+msgstr ""
+
+#: templates/admin/marketing-page.php:12
+msgid "Campaign"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:49
+msgid "Chat ID"
+msgstr ""
+
+#: templates/admin/bot-settings.php:48
+msgid "Chat ID / channel"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:49
+msgid "Check bot username"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:93
+msgid "Check delivery status"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:82
+msgid "Choose a WooCommerce product and send it to your Telegram subscribers."
+msgstr ""
+
+#: templates/admin/marketing-page.php:31
+msgid "Choose from Media Library"
+msgstr ""
+
+#: templates/admin/marketing-page.php:34
+msgid "Clear"
+msgstr ""
+
+#: templates/admin/marketing-page.php:158
+msgid "Clear message template"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:242
+msgid "Command"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:295
+msgid "Configure how your store uses Telegram for operations and marketing."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:75
+msgid "Connect Marketing Bot"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:31
+#: templates/admin/partials/settings-general-tab.php:66
+msgid "Connect Operations Bot"
+msgstr ""
+
+#: templates/admin/settings-page.php:48
+msgid "Connect Operations Bot to receive order alerts"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:56
+msgid "Connect Telegram"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:31
+msgid "Connect your Marketing Bot"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:225
+msgid "Connect your Marketing Bot and start building your Telegram audience."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:64
+msgid "Connect your Operations Bot to receive new order, payment, and status notifications."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:61
+#: templates/admin/partials/settings-marketing-bot-tab.php:36
+#: templates/admin/bot-settings.php:24
+msgid "Connect your Telegram bot"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:30
+#: templates/admin/bot-settings.php:40
+msgid "Connected"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:99
+msgid "Copy the token and paste it above."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:89
+msgid "Copy the token from"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:68
+msgid "Copy your token from"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:248
+msgid "Count"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:234
+msgid "Create product campaign"
+msgstr ""
+
+#: templates/admin/settings-page.php:66
+msgid "Dashboard"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:111
+msgid "Default chat ID / channel ID"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:120
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:41
+msgid "Delivery Checks"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:209
+msgid "Delivery endpoint URL"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:166
+msgid "Delivery failed"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:121
+msgid "Delivery issues"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:305
+msgid "Delivery retries"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:154
+msgid "Delivery Trend (7 days)"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:158
+msgid "Delivery trend chart"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:251
+msgid "Description"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:33
+msgid "Diagnostics"
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:23
+msgid "Dynamic data fields: {order_id}, {customer_name}, {order_total}, {order_status}"
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:37
+msgid "Dynamic data fields: {order_id}, {old_status}, {new_status}, {customer_name}"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:185
+#: templates/admin/partials/settings-general-tab.php:288
+msgid "Edit message design"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:184
+msgid "Fix stuck messages"
+msgstr ""
+
+#: templates/admin/marketing-page.php:42
+msgid "Footer"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:164
+msgid "Full description"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:54
+msgid "Get instant order alerts, build your audience, and send campaigns from one place."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:147
+#: templates/admin/partials/settings-marketing-bot-tab.php:128
+msgid "Get Telegram ID"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:20
+#: templates/admin/settings-page.php:72
+#: templates/admin/subscribers-page.php:53
+msgid "Growth"
+msgstr ""
+
+#: templates/admin/marketing-page.php:18
+msgid "Header"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:315
+msgid "Hide long link previews"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:94
+msgid "How to get a Telegram bot token"
+msgstr ""
+
+#: templates/admin/marketing-page.php:26
+msgid "Image URL"
+msgstr ""
+
+#: templates/admin/marketing-page.php:144
+msgid "Image URL failed to load."
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:12
+#: templates/admin/settings-page.php:78
+msgid "Infrastructure"
+msgstr ""
+
+#: templates/admin/marketing-page.php:49
+msgid "Inline Button Text"
+msgstr ""
+
+#: templates/admin/marketing-page.php:56
+msgid "Inline Button URL"
+msgstr ""
+
+#: src/Admin/SubscribersPageController.php:24
+#: src/Admin/SubscribersPageController.php:53
+msgid "Insufficient permissions."
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:40
+msgid "Invalid product ID."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:247
+msgid "Issue"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:249
+msgid "Last seen"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:84
+msgid "Launch first campaign"
+msgstr ""
+
+#: templates/admin/marketing-page.php:44
+msgid "Limited time offer. Tap button below."
+msgstr ""
+
+#: templates/admin/marketing-page.php:135
+msgid "Live Preview"
+msgstr ""
+
+#: templates/admin/marketing-page.php:142
+msgid "Loading image..."
+msgstr ""
+
+#: src/Admin/ProductPushMetaBox.php:32
+msgid "Marketing Bot"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:25
+msgid "Marketing Bot Setup"
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:43
+msgid "Marketing Campaign Message template"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:109
+msgid "Marketing OFF"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:35
+msgid "Marketing OFF: %d"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:111
+msgid "Marketing ON"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:33
+msgid "Marketing ON: %d"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:274
+#: templates/admin/partials/settings-templates-tab.php:12
+#: templates/admin/settings-page.php:75
+msgid "Message design"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:297
+msgid "Message format"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:117
+msgid "Messages delivered"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:13
+msgid "Monitor delivery reliability and keep your Telegram channel healthy."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:51
+msgid "Name"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:167
+msgid "New order alert"
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:15
+msgid "New Order Alert Message template"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:232
+msgid "No campaigns sent yet"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:263
+msgid "No delivery issues detected."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:214
+msgid "No events yet."
+msgstr ""
+
+#: templates/admin/marketing-page.php:124
+msgid "No products found."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:147
+msgid "No Telegram audience yet"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:224
+msgid "No Telegram subscribers yet"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:286
+msgid "No templates saved yet."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:232
+#: templates/admin/partials/settings-marketing-bot-tab.php:187
+msgid "Not checked yet"
+msgstr ""
+
+#: templates/admin/bot-settings.php:40
+msgid "Not connected"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:30
+msgid "Not detected"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:34
+msgid "Off"
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:53
+msgid "Only published products can be sent."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:96
+msgid "Open @BotFather and press Start."
+msgstr ""
+
+#: templates/admin/marketing-page.php:51
+msgid "Open catalog"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:76
+msgid "Open Subscriber Link"
+msgstr ""
+
+#: templates/frontend/bind-shortcode.php:12
+msgid "Open Telegram bot"
+msgstr ""
+
+#: templates/frontend/bind-shortcode.php:9
+msgid "Open your bot and send the generated start token."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:158
+msgid "Operation alerts"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:26
+#: templates/admin/settings-page.php:69
+msgid "Operations"
+msgstr ""
+
+#: templates/admin/settings-page.php:47
+msgid "Operations alerts are ready"
+msgstr ""
+
+#: templates/admin/marketing-page.php:45
+msgid "Optional."
+msgstr ""
+
+#: templates/admin/marketing-page.php:37
+msgid "Optional. If provided, URL is added at the top of message."
+msgstr ""
+
+#: templates/admin/marketing-page.php:127
+msgid "Optional. You can send promo digest without selecting products."
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:29
+msgid "Order Status Change Message template"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:183
+msgid "Order updates"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:109
+msgid "Orders tracked"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:199
+msgid "Payment confirmation"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:21
+msgid "PHP Version"
+msgstr ""
+
+#: src/Frontend/BindShortcode.php:31
+msgid "Please log in to bind Telegram."
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:269
+msgid "Preview"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:85
+msgid "Preview Message"
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:47
+msgid "Product not found."
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:61
+msgid "Product was sent to subscribers."
+msgstr ""
+
+#: templates/admin/marketing-page.php:63
+msgid "Products"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:179
+msgid "Quick Actions"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:36
+msgid "Quick setup"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:193
+msgid "Recent Events"
+msgstr ""
+
+#: templates/admin/bot-settings.php:43
+msgid "Reconnect"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:235
+#: templates/admin/partials/settings-marketing-bot-tab.php:195
+msgid "Reconnect delivery"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:46
+msgid "Refresh Status"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:215
+msgid "Refund created"
+msgstr ""
+
+#: templates/admin/marketing-page.php:21
+msgid "Required field."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:183
+msgid "Restore delivery"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:115
+msgid "Resume bot"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:309
+msgid "Retry delay (sec)"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:43
+msgid "Run a quick check to verify delivery flow, retries, and current system status."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:94
+#: templates/admin/partials/settings-general-tab.php:182
+msgid "Run Diagnostics"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:244
+msgid "Save and activate"
+msgstr ""
+
+#: templates/admin/settings-page.php:103
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/marketing-page.php:70
+msgid "Search products..."
+msgstr ""
+
+#: src/Admin/ProductPushMetaBox.php:76
+msgid "Send"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:97
+msgid "Send /newbot and choose a bot name."
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:133
+msgid "Send a message to your Marketing Bot (or add it to a channel), then click \"Get Telegram ID\"."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:151
+msgid "Send any message to your bot in Telegram, then click \"Get Telegram ID\" or paste it manually."
+msgstr ""
+
+#: templates/admin/marketing-page.php:164
+msgid "Send campaign"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:320
+msgid "Send customer-facing updates"
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:67
+msgid "Send failed: "
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:57
+msgid "Send product campaign"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:63
+msgid "Send test message"
+msgstr ""
+
+#: templates/admin/marketing-page.php:161
+msgid "Send test to my chat"
+msgstr ""
+
+#: src/Admin/ProductPushMetaBox.php:49
+msgid "Send this product to all active Telegram subscribers."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:233
+msgid "Send your first campaign and drive repeat purchases."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:165
+msgid "Sent"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:98
+msgid "Set a username ending with \"bot\"."
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:53
+msgid "Set chat ID for alerts"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:226
+msgid "Set Up Marketing Bot"
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:146
+msgid "Short description"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:79
+#: templates/admin/partials/settings-marketing-bot-tab.php:54
+msgid "Show or hide token"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:117
+msgid "Stop bot"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:293
+msgid "Store Telegram Channel"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:23
+msgid "Summary"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:131
+msgid "System Health"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:16
+msgid "System overview"
+msgstr ""
+
+#: templates/frontend/bind-shortcode.php:6
+msgid "Telegram already linked to your account."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:10
+msgid "Telegram audience"
+msgstr ""
+
+#: templates/admin/settings-page.php:40
+msgid "Telegram Control Center for WooCommerce"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:228
+#: templates/admin/partials/settings-marketing-bot-tab.php:181
+#: templates/admin/bot-settings.php:37
+msgid "Telegram delivery status"
+msgstr ""
+
+#: templates/admin/marketing-page.php:9
+msgid "Telegram Growth"
+msgstr ""
+
+#: src/Admin/Admin.php:131
+msgid "Telegram Manager Free version active."
+msgstr ""
+
+#: telegram-manager-woocommerce.php:88
+msgid "Telegram Manager WooCommerce requires WooCommerce to be installed and active."
+msgstr ""
+
+#: telegram-manager-woocommerce.php:50
+msgid "Telegram Manager WooCommerce: Autoloader class was not found."
+msgstr ""
+
+#: telegram-manager-woocommerce.php:34
+msgid "Telegram Manager WooCommerce: Autoloader file is missing."
+msgstr ""
+
+#: telegram-manager-woocommerce.php:105
+msgid "Telegram Manager WooCommerce: Bootstrap class was not found."
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:221
+msgid "Telegram should send updates to this URL for your Marketing Bot."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:113
+msgid "Telegram Subscribers"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:48
+msgid "Telegram User ID"
+msgstr ""
+
+#: src/Ajax/TemplateAjaxController.php:42
+msgid "Templates saved."
+msgstr ""
+
+#: templates/admin/partials/settings-marketing-bot-tab.php:158
+msgid "This text appears in the bot profile header in Telegram."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:241
+msgid "Top Delivery Errors"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:25
+msgid "Total: %d"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:53
+msgid "Turn Telegram into a WooCommerce growth and operations channel"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:31
+msgid "Unreachable users: %d"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:54
+msgid "Updated"
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:73
+msgid "Use the Marketing Bot to collect your audience and send product campaigns."
+msgstr ""
+
+#: templates/admin/partials/settings-templates-tab.php:51
+msgid "Use this template for manual or automated campaign sends."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:50
+msgid "Username"
+msgstr ""
+
+#: templates/admin/bot-settings.php:61
+msgid "Verify connection"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:84
+#: templates/admin/partials/settings-general-tab.php:67
+#: templates/admin/settings-page.php:57
+msgid "Verify Order Alert"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:29
+msgid "Waiting for connection: %d"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:108
+msgid "Watch video guide"
+msgstr ""
+
+#: templates/admin/marketing-page.php:20
+msgid "Weekend sale picks"
+msgstr ""
+
+#: templates/admin/partials/settings-admin-bot-tab.php:136
+msgid "Where to send alerts"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:29
+msgid "WooCommerce"
+msgstr ""
+
+#: templates/admin/partials/settings-debug-tab.php:25
+msgid "WordPress Version"
+msgstr ""
+
+#: templates/admin/subscribers-page.php:46
+msgid "WP User"
+msgstr ""
+
+#: src/Ajax/ProductPushAjaxController.php:31
+msgid "You do not have permission to send products to subscribers."
+msgstr ""
+
+#: templates/admin/partials/settings-general-tab.php:91
+msgid "Your delivery system and retries keep Telegram messages reliable."
+msgstr ""
+
+#: templates/admin/subscribers-page.php:40
+msgid "Your Telegram audience"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:219
+msgid "(Header is empty)"
+msgstr ""
+
+#: assets/js/settings-dashboard.js:69
+msgid "Action failed"
+msgstr ""
+
+#: assets/js/settings-dashboard.js:47
+msgid "Check"
+msgstr ""
+
+#: assets/js/admin-bot.js:181
+msgid "Admin Operations Bot is connected."
+msgstr ""
+
+#: assets/js/admin-bot.js:165
+msgid "Bot check failed."
+msgstr ""
+
+#: assets/js/admin-bot.js:102
+msgid "Bot token is required."
+msgstr ""
+
+#: assets/js/marketing-bot.js:360
+msgid "Chat ID retrieved."
+msgstr ""
+
+#: assets/js/admin-bot.js:213
+msgid "Chat ID:"
+msgstr ""
+
+#: assets/js/admin-bot.js:156
+msgid "Checking..."
+msgstr ""
+
+#: assets/js/settings-dashboard.js:72
+msgid "Completed"
+msgstr ""
+
+#: assets/js/settings-dashboard.js:92
+msgid "Debug"
+msgstr ""
+
+#: assets/js/admin-bot.js:209
+msgid "Could not fetch chat ID."
+msgstr ""
+
+#: assets/js/admin-bot.js:130
+#: assets/js/marketing-bot.js:277
+msgid "Could not save settings."
+msgstr ""
+
+#: assets/js/admin-bot.js:253
+msgid "Error"
+msgstr ""
+
+#: assets/js/admin-bot.js:140
+msgid "Error:"
+msgstr ""
+
+#: assets/js/marketing-bot.js:64
+msgid "Fetching chat ID..."
+msgstr ""
+
+#: assets/js/admin-bot.js:203
+msgid "Fetching..."
+msgstr ""
+
+#: assets/js/admin.js:24
+msgid "Global admin data is not initialized"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:422
+msgid "Header is required"
+msgstr ""
+
+#: assets/js/admin.js:148
+msgid "Hide"
+msgstr ""
+
+#: assets/js/admin.js:82
+msgid "Loading..."
+msgstr ""
+
+#: assets/js/marketing-bot.js:307
+msgid "Marketing Bot is connected."
+msgstr ""
+
+#: assets/js/marketing-bot.js:61
+msgid "Marketing Bot profile updated."
+msgstr ""
+
+#: assets/js/marketing-bot.js:67
+msgid "Marketing Bot update failed:"
+msgstr ""
+
+#: assets/js/admin-bot.js:247
+msgid "Polling mode (getUpdates)"
+msgstr ""
+
+#: assets/js/settings-dashboard.js:118
+msgid "Queue"
+msgstr ""
+
+#: assets/js/marketing-product-push.js:86
+msgid "Product send error:"
+msgstr ""
+
+#: assets/js/marketing-product-push.js:36
+msgid "product_id not found."
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:466
+msgid "Promo digest completed"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:481
+msgid "Promo digest request failed"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:190
+msgid "Promo image"
+msgstr ""
+
+#: assets/js/admin-bot.js:101
+msgid "Provide a bot token before running this action."
+msgstr ""
+
+#: assets/js/marketing-bot.js:59
+msgid "Provide a Marketing Bot token."
+msgstr ""
+
+#: assets/js/marketing-bot.js:165
+msgid "Remove"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:430
+msgid "Running test..."
+msgstr ""
+
+#: assets/js/settings-dashboard.js:64
+msgid "Running..."
+msgstr ""
+
+#: assets/js/admin-bot.js:139
+msgid "Save error:"
+msgstr ""
+
+#: assets/js/marketing-bot.js:60
+msgid "Saving and applying..."
+msgstr ""
+
+#: assets/js/admin-bot.js:113
+msgid "Saving..."
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:533
+msgid "Select image"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:429
+msgid "Sending test..."
+msgstr ""
+
+#: assets/js/marketing-product-push.js:41
+msgid "Sending..."
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:458
+msgid "Server returned an invalid JSON response."
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:457
+msgid "Server returned HTML instead of JSON. Check debug.log and AJAX PHP errors."
+msgstr ""
+
+#: assets/js/admin.js:50
+msgid "Server returned non-JSON response:"
+msgstr ""
+
+#: assets/js/marketing-bot.js:62
+msgid "Settings saved and profile applied in Telegram."
+msgstr ""
+
+#: assets/js/admin-bot.js:133
+msgid "Settings saved."
+msgstr ""
+
+#: assets/js/admin.js:147
+msgid "Show"
+msgstr ""
+
+#: assets/js/admin-bot.js:55
+msgid "steps completed"
+msgstr ""
+
+#: assets/js/marketing-bot.js:395
+msgid "Token is missing"
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:486
+msgid "Unexpected request error"
+msgstr ""
+
+#: assets/js/admin-bot.js:138
+msgid "Unknown error."
+msgstr ""
+
+#: assets/js/settings-dashboard.js:106
+msgid "Verify"
+msgstr ""
+
+#: assets/js/settings-dashboard.js:112
+msgid "Webhook"
+msgstr ""
+
+#: assets/js/marketing-bot.js:65
+msgid "Updating webhook..."
+msgstr ""
+
+#: assets/js/admin-bot.js:235
+msgid "Updating..."
+msgstr ""
+
+#: assets/js/marketing-promo-digest.js:534
+msgid "Use this image"
+msgstr ""
+
+#: assets/js/admin-bot.js:248
+msgid "Webhook is active"
+msgstr ""
+
+#: assets/js/admin-bot.js:241
+msgid "Webhook update failed."
+msgstr ""
+
+#: assets/js/admin-bot.js:250
+msgid "Webhook updated."
+msgstr ""

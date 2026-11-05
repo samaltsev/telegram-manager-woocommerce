@@ -1,0 +1,7 @@
+.tcc-system-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px}.tcc-card-title-row{display:flex;align-items:center;gap:10px;margin-bottom:12px}.tcc-card-title-row span{font-size:22px}.tcc-card-title-row h2{margin:0;font-size:17px}.tcc-system-row{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid var(--tcc-border)}.tcc-system-row:last-child{border-bottom:0}.tcc-system-row span:first-child{color:var(--tcc-muted)}.tcc-system-row strong{text-align:right}
+
+.tcc-row-note{display:block;margin-top:3px;color:var(--tcc-muted);font-size:11px;line-height:1.35;opacity:.8}
+.tcc-diagnostics-card{margin-top:18px}
+.tcc-diagnostics-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.tcc-system-row>span:first-child{min-width:0}
+.tcc-system-row .tcc-mini-badge{flex-shrink:0}
