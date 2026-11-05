@@ -1,1 +1,0 @@
-/* Toast helper is exposed through window.WCTMAdmin by utils.js. */

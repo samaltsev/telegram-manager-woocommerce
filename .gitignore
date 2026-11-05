@@ -1,8 +1,0 @@
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-.phpunit.result.cache
-vendor/
-node_modules/
-*.zip

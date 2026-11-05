@@ -1,1 +1,0 @@
-/* System report copy interaction is initialized by utils.js. */

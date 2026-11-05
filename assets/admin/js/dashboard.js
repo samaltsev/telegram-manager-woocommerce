@@ -1,1 +1,0 @@
-/* Dashboard AJAX actions are initialized by utils.js. */

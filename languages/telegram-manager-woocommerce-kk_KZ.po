@@ -1,8 +1,0 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: Telegram Manager WooCommerce\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"X-Domain: telegram-manager-woocommerce\n"
-
-msgid "Dashboard"
-msgstr "Dashboard"
